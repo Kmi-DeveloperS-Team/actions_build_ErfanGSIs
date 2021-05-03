@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: http://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.21_OTA_021_all_1911042323_c02b80d75b67412a.zip
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
